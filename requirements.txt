@@ -22,7 +22,7 @@ redis==4.5.1
 asyncpg==0.28.0
 
 # HTTP and Async
-aiohttp==3.8.6
+aiohttp==3.12.14
 httpx==0.25.0
 
 # Monitoring and Logging
