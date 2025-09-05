@@ -161,6 +161,7 @@ See [research documentation](docs/research/) for comprehensive analysis of prior
 - [ML Engineering Skills Matrix](docs/ml-engineering-skills-matrix.md) - Detailed competency demonstrations
 - [Research Documentation](docs/research/) - Prior art analysis and technical differentiation
 - [Blog Series Plan](docs/blog-series/blog-series-plan.md) - Technical blog series strategy
+- **[Factual Summary](docs/FACTUAL_SUMMARY.md)** - Honest assessment of project scope and limitations
 
 ## 📝 Blog Series
 
